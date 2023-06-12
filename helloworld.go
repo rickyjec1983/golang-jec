@@ -4,7 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello world !")
-	fmt.Println("hello world 2!")
 	//fmt.Println("ini satu", 1)
 	//fmt.Println("ini benar", true)
 	//fmt.Println("jumlah string : ", len("test"))
